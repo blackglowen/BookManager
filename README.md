@@ -2,6 +2,7 @@
 
 Book Manager is a book catalog or if you want a simple library management system based on Django Python web application framework.
 
+![Book Manager Admin Site](https://raw.githubusercontent.com/blackglowen/BookManager/main/screenshots/bookm-admin.png)
 
 ## Running database migrations
 
