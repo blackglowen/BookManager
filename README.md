@@ -4,6 +4,8 @@ Book Manager is a book catalog or if you want a simple library management system
 
 ![Book Manager Admin Site](https://raw.githubusercontent.com/blackglowen/BookManager/main/screenshots/bookm-admin.png)
 
+![Book Manager Admin Site](https://raw.githubusercontent.com/blackglowen/BookManager/main/screenshots/bookm01.png)
+
 ## Running database migrations
 
     python manage.py migrate
